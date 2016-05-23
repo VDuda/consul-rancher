@@ -14,3 +14,4 @@ done
 sleep 5
 run_consul
 
+# test
